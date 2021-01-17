@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import vivek.framework.vivekbrewery.service.BeerService;
 import vivek.framework.vivekbrewery.web.model.BeerDto;
+import vivek.framework.vivekbrewery.service.BeerService;
 
 import java.util.UUID;
 
